@@ -35,6 +35,8 @@ export default function HeroSection() {
 									<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20 hover:bg-green-500/20 hover:border-green-500/40 transition-all duration-300 cursor-pointer">JavaScript</span>
 									<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20 hover:bg-green-500/20 hover:border-green-500/40 transition-all duration-300 cursor-pointer">TypeScript</span>
 									<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20 hover:bg-green-500/20 hover:border-green-500/40 transition-all duration-300 cursor-pointer">AWS</span>
+									<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20 hover:bg-green-500/20 hover:border-green-500/40 transition-all duration-300 cursor-pointer">ExpressJs</span>
+									<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20 hover:bg-green-500/20 hover:border-green-500/40 transition-all duration-300 cursor-pointer">NestJs</span>
 									<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20 hover:bg-green-500/20 hover:border-green-500/40 transition-all duration-300 cursor-pointer">Mongoose</span>
 									<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20 hover:bg-green-500/20 hover:border-green-500/40 transition-all duration-300 cursor-pointer">Swagger</span>
 								</div>
